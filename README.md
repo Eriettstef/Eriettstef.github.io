@@ -17,7 +17,7 @@
 
     <a href="https://www.instagram.com/reel/Coc3SSptpBm/?igshid=YmMyMTA2M2Y=">Δεν με πιστεύεις; Κοίτα πώς τρέχεις</a>
     <p>    </p>
-    <img src="https://pbs.twimg.com/media/Dq2DqBhWoAA5tZo.jpg" alt="SBOUSH H EIKONA RIP" width="463" height="448">
+    <img src="https://pbs.twimg.com/media/Dq2DqBhWoAA5tZo.jpg" alt="SBOUSH H EIKONA RIP" width="363" height="348">
 
     </body>
 
