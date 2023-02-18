@@ -11,11 +11,11 @@
 
     <body>
 
-    <h1>Γειά σου</h1>
+    <h1>Γειά σου κοσμάκη</h1>
 
-    <p>Είσαι ένας μπούφος</p>
+    <p> είμαι η Εριέττα και μαθαίνω html</p>
 
-    <a href="https://www.instagram.com/reel/Coc3SSptpBm/?igshid=YmMyMTA2M2Y=">Δεν με πιστεύεις; Κοίτα πώς τρέχεις</a>
+    <a href="https://youtu.be/dQw4w9WgXcQ"> πάτα το λινκ για να με δεις μεθυσμένη</a>
     <p>    </p>
     <img src="https://pbs.twimg.com/media/Dq2DqBhWoAA5tZo.jpg" alt="SBOUSH H EIKONA RIP" width="363" height="348">
 
