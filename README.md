@@ -15,7 +15,7 @@
 
     <p> είμαι η Εριέττα και μαθαίνω html</p>
 
-    <a href="https://youtu.be/dQw4w9WgXcQ"> πάτα το λινκ για να με δεις μεθυσμένη</a>
+    <a href="https://shattereddisk.github.io/rickroll/rickroll.mp4"> πάτα το λινκ για να με δεις μεθυσμένη</a>
     <p>    </p>
     <img src="https://pbs.twimg.com/media/Dq2DqBhWoAA5tZo.jpg" alt="SBOUSH H EIKONA RIP" width="363" height="348">
 
