@@ -2,7 +2,7 @@
 
 
 
-<html>
+
     <head>
         <title>Mpoufini</title>
     </head>
@@ -31,7 +31,7 @@
         πόσα ποντίκια θα φας πια βρε μπούφε 
     </pre>
     
-</html>
+
 
   <!-- 
     ~the style attribute for styling HTML elements
