@@ -1,5 +1,4 @@
 # 🦉🦉🦉🦉
-<!DOCTYPE html>
 <html lang="el">
     <head>
         <title>Mpoufini</title>
@@ -28,4 +27,4 @@
         μπούφος, μπούφος, μπούφος, μπούφος, μπούφος
         πόσα ποντίκια θα φας πια βρε μπούφε 
     </pre>
-</html>
+
