@@ -30,7 +30,7 @@
 μπούφος, μπούφος, μπούφος, μπούφος, μπούφος
 πόσα ποντίκια θα φας πια βρε μπούφε </pre>
     
-  </html>
+</html>
 
   <!-- 
     ~the style attribute for styling HTML elements
