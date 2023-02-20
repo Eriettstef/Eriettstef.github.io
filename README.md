@@ -1,8 +1,6 @@
 # 🦉🦉🦉🦉
-
-
-
-
+<!DOCTYPE html>
+<html lang="el">
     <head>
         <title>Mpoufini</title>
     </head>
@@ -30,15 +28,4 @@
         μπούφος, μπούφος, μπούφος, μπούφος, μπούφος
         πόσα ποντίκια θα φας πια βρε μπούφε 
     </pre>
-    
-
-
-  <!-- 
-    ~the style attribute for styling HTML elements
-    ~background-color~ for background color
-    ~color~ for text colors
-    ~font-family~ for text fonts
-    ~font-size~ for text sizes
-    ~text-align~ for text alignment
-
-  -->
+</html>
