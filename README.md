@@ -2,10 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Villa Price Calculator</title>
+ 
 </head>
 <body>
-    <h1>Villa Calculations</h1>
+    <h1>Villa Price Calculator</h1>
+    <h2>Villa Calculations</h2>
     <form action="calculate.php" method="post">
         <label for="pweek">Please write the p/week price of the villa:</label><br>
         <input type="text" id="pweek" name="pweek"><br>
