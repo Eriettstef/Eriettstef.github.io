@@ -51,7 +51,7 @@
         .calculator-form button {
             display: block;
             margin: 0 auto;
-            margin-top: 10px;
+            margin-top: 26px;
             background-color: #0b2270;
             color: #FFFFFF;
             border: none;
