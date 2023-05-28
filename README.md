@@ -36,7 +36,7 @@
         }
         
         .calculator-form input[type="text"] {
-            width: 97%;
+            width: 100%;
             padding: 10px;
             border-radius: 4px;
             border: 1px solid #CCCCCC;
