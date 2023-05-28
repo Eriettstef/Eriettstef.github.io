@@ -3,7 +3,7 @@
 <head>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            document.title = "Calculator";
+            document.title = "Villa Price Calculator";
         });
     </script>
     <style>
