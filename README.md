@@ -3,7 +3,7 @@
 <head>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            document.title = "Your Custom Title";
+            document.title = "Calculator";
         });
     </script>
     <style>
