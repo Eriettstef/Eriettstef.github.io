@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <h1>Villa Price Calculator</h1>
+ 
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
 
